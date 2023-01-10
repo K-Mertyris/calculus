@@ -23,26 +23,39 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functions and Graphs.md",
+                "file": "Piecewise-Defined Functions.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75a32b69fd8df2e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calculus I.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5008a70dfd9ec96c",
+            "id": "ab4c6b460dfe7fd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Function Basics.md",
+                "file": "Calculus I.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -71,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"Functions and Graphs\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Function Basics.md",
+                "file": "Calculus I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Function Basics.md",
+                "file": "Calculus I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Function Basics.md"
+                "file": "Calculus I.md"
               }
             }
           }
@@ -169,10 +182,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5008a70dfd9ec96c",
+  "active": "ab4c6b460dfe7fd2",
   "lastOpenFiles": [
     "Functions and Graphs.md",
     "Function Basics.md",
+    "Calculus I.md",
+    "Function.md",
+    "[.md",
+    "Piecewise-Defined Functions.md",
+    "Formal Definition of Functions.md",
+    "Representing Functions.md",
+    "Formal.md",
     "().md"
   ]
 }

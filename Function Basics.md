@@ -7,7 +7,5 @@ The purpose of this section is to capture notes relating to the basics of functi
 	* Tables
 	* Formulas
 	* Graphs
-* Formal notation of functions
-* Terms related to functions
-* Composition of functions
+* [[Combining Functions]]
 * Symmetry properties

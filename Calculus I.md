@@ -1,4 +1,4 @@
-This Obsidian vault will capture all my notes for Calculus I from the spring semester. The book used in the course is _Calculus Volume 1_ by Gilbert Strang and Edwin "Jed" Herman, hosted on Openstax.
+This Obsidian vault will capture all my notes for Calculus I from the spring semester. The book used in the course is _Calculus Volume 1_ by Gilbert Strang and Edwin "Jed" Herman, hosted on OpenStax.
 
 ## Chapters
 
@@ -16,4 +16,4 @@ This Obsidian vault will capture all my notes for Calculus I from the spring sem
 
 ## Links
 
-1. [Openstax: Calculus - Volume 1](https://openstax.org/details/books/calculus-volume-1)
+1. [OpenStax: Calculus - Volume 1](https://openstax.org/details/books/calculus-volume-1)

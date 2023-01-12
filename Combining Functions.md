@@ -10,4 +10,12 @@ To combine functions using mathematical operators, write the functions with the 
 
 ## Function Composition
 
-**PICK UP HERE**
+Function composition means to take an input $x$, plug it into a function $f(x)$, then have the output of that function be the input to another function $g(x)$.
+- $g(f(x))$ OR $(g \circ f)(x)$ OR $g \circ f$
+- $f(x) = x^2$
+- $g(x) = x^3$
+- $g(f(x)) = (x^2)^3 = x^6$
+
+>[!Definition]
+>Function $f$ with domain **_A_** and range **_B_**, function $g$ with domain **_D_** and range **_E_**. If **_B_** is a subset of **_D_**, then the **composite function** $(g \circ f)(x)$ is the function with domain **_A_** such that:
+>$(g \circ f)(x) = g(f(x))$

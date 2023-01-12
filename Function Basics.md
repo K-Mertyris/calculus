@@ -8,4 +8,4 @@ The purpose of this section is to capture notes relating to the basics of functi
 	* Formulas
 	* Graphs
 * [[Combining Functions]]
-* Symmetry properties
+* [[Symmetry of Functions]]

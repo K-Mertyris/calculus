@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4363e5fb1018d02e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calculus I.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symmetry of Functions.md",
+                "file": "Calculus I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symmetry of Functions.md",
+                "file": "Calculus I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Symmetry of Functions.md"
+                "file": "Calculus I.md"
               }
             }
           }
@@ -175,8 +188,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "a7ce8dec578d0f03",
+  "active": "4363e5fb1018d02e",
   "lastOpenFiles": [
+    "Syllabus.md",
+    "Symmetry of Functions.md",
     "Function Basics.md",
     "Combining Functions.md",
     "Untitled.canvas",
@@ -184,8 +199,6 @@
     "Formal Definition of Functions.md",
     "Functions and Graphs.md",
     "Representing Functions.md",
-    "Piecewise-Defined Functions.md",
-    "Function.md",
-    "[.md"
+    "Piecewise-Defined Functions.md"
   ]
 }

@@ -8,45 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a9a1be2faa5f6c5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combining Functions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7767fb70f1d380a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Function Basics.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7ce8dec578d0f03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Symmetry of Functions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4363e5fb1018d02e",
             "type": "leaf",
             "state": {
@@ -59,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,15 +150,15 @@
   },
   "active": "4363e5fb1018d02e",
   "lastOpenFiles": [
+    "Algebraic Manipulations Critical for Calculus.md",
+    "Calculus I.md",
     "Syllabus.md",
     "Symmetry of Functions.md",
     "Function Basics.md",
     "Combining Functions.md",
     "Untitled.canvas",
-    "Calculus I.md",
     "Formal Definition of Functions.md",
     "Functions and Graphs.md",
-    "Representing Functions.md",
-    "Piecewise-Defined Functions.md"
+    "Representing Functions.md"
   ]
 }

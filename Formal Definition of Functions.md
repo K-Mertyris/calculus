@@ -30,3 +30,5 @@ When functions are described as an equation ($f(x) = x^2$), the domain (set of i
 - {$x$|$1 < x < 5$}
 - ($1, 5$)
 - $[1, 5]$
+
+When **_evaluating_** a function, all we're doing is plugging in a number or another variable in for the placeholder (commonly $x$) and then solving, expanding, factoring, or any combination of the three to get to the answer.

@@ -19,4 +19,8 @@ other version-control features of GitHub.
 
 ## Links
 
-TBD
+All notes and assignments are derived from the course. The book used in this
+Calculus course can be found on
+[OpenStax](https://openstax.org/details/books/calculus-volume-1). No answers to
+problems will be found in this GitHub repository, only the problems presented
+will be found within my notes.

@@ -7,9 +7,9 @@ This Obsidian vault will capture all my notes for Calculus I from the spring sem
 		- [[1.1 - Assignment]] - **Due 2023-01-23**
 	- [[1.2 - Functions]]
 	- [[1.3 - Basic Classes of Functions and Their Graphs]]
-	- 1.4 - Inverse Functions
-	- 1.5 - Exponential and Logarithmic Functions
-	- 1.6 - Trigonometry
+	- [[1.4 - Inverse Functions]]
+	- [[1.5 - Exponential and Logarithmic Functions]]
+	- [[1.6 - Trigonometry]]
 	- 1.7 - Hyperbolic Functions
 		- Assignment - **Due 2023-01-25**
 - Chapter 2: Learning Limits

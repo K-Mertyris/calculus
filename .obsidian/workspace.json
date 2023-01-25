@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temp.md",
+                "file": "Syllabus.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Temp.md",
+                "file": "Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Temp.md",
+                "file": "Syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temp.md"
+                "file": "Syllabus.md"
               }
             }
           }
@@ -190,9 +190,9 @@
   },
   "active": "d9fbeebda1d33bd0",
   "lastOpenFiles": [
+    "Temp.md",
     "1.5 - Exponential and Logarithmic Functions.md",
     "1.7.a - Assignment.md",
-    "Temp.md",
     "1.2 - Functions.md",
     "Symmetry of Functions.md",
     "1.7 - Hyperbolic Functions.md",

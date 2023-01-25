@@ -40,3 +40,28 @@ Kalani Mertyris
 	5. Substituting to show the base form of the equation
 		1. $\dfrac{e^t-e^{-t}}{2}=\sinh(t)$
 
+Kalani Mertyris
+9. Prove the identity: $\cosh(2x)=\cosh^2(x)+\sinh^2(x)$
+	1. Flipping the equation, taking the (now) left hand side of the equation and substituting:
+		1. $\bigg(\dfrac{e^x+e^{-x}}{2}\bigg)^2+\bigg(\dfrac{e^x-e^{-x}}{2}\bigg)^2=\cosh(2x)$
+	2. Multiplying:
+		1. $\dfrac{e^{2x}+e^0+e^0+e^{-2x}}{4}+\dfrac{e^{2x}-e^0-e^0+e^{-2x}}{4}=\cosh(2x)$
+	3. Combining (same denominator) and simplifying:
+		1. $\dfrac{2e^{2x}+2e^{-2x}}{4}=\cosh(2x)$
+	4. Factoring and simplifying:
+		1. $\dfrac{2(e^{2x}+e^{-2x})}{4}=\cosh(2x)$
+		2. $\dfrac{e^{2x}+e^{-2x}}{2}=\cosh(2x)$
+	5. Substituting to show the base form of the equation:
+		1. $\dfrac{e^t+e^{-t}}{2}=\cosh{t}$
+
+Kalani Mertyris
+10. Prove the identity: $\sinh(2x)=2\sinh(x)\cosh(x)$
+	1. Flipping the equation, taking the (now) left hand side of the equation and substituting:
+		1. $2\bigg(\dfrac{e^x-e^{-x}}{2}\bigg)\bigg(\dfrac{e^x+e^{-x}}{2}\bigg)=\sinh(2x)$
+	2. Multiplying:
+		1. $2\bigg(\dfrac{e^{2x}+e^0-e^0-e^{-2x}}{4}\bigg)=\sinh(2x)$
+	3. Simplifying:
+		1. $2\bigg(\dfrac{e^{2x}-e^{-2x}}{4}\bigg)=\sinh(2x)$
+		2. $\dfrac{e^{2x}-e^{-2x}}{2}=\sinh(2x)$
+	4. Substituting to show the base form of the equation:
+		1. $\dfrac{e^t-e^{-t}}{2}=\sinh(t)$

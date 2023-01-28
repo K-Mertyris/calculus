@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.1 - Tangent Lines and Velocity.md",
+                "file": "2.2 - The Limit of a Function - A Numerical and Graphical Investigation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.1 - Tangent Lines and Velocity.md",
+                "file": "2.2 - The Limit of a Function - A Numerical and Graphical Investigation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.1 - Tangent Lines and Velocity.md",
+                "file": "2.2 - The Limit of a Function - A Numerical and Graphical Investigation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.1 - Tangent Lines and Velocity.md"
+                "file": "2.2 - The Limit of a Function - A Numerical and Graphical Investigation.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "18c52ed99712e32c",
   "lastOpenFiles": [
+    "2.1 - Tangent Lines and Velocity.md",
     "2.2 - The Limit of a Function - A Numerical and Graphical Investigation.md",
     "Calculus I.md",
     "lecture-notes/2023-01-18 - Lecture Notes.md",
@@ -158,7 +159,6 @@
     "1.2 - Functions.md",
     "1.1 - Algebraic Manipulations Critical for Calculus.md",
     "working/2.1 - Assignment Scratch Paper.md",
-    "2.1.a - Assignment.md",
-    "1.7.a - Assignment.md"
+    "2.1.a - Assignment.md"
   ]
 }

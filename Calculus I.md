@@ -15,7 +15,8 @@ This Obsidian vault will capture all my notes for Calculus I from the spring sem
 - Chapter 2: Learning Limits
 	- [[2.1 - Tangent Lines and Velocity]]
 	- [[2.2 - The Limit of a Function - A Numerical and Graphical Investigation]]
-	- 2.3 - The Limit Laws - Limits at Finite Numbers
+		- [[2.2.a - Assignment]] - **Due 2023-01-30**
+	- [[2.3 - The Limit Laws - Limits at Finite Numbers]]
 	- 2.4 - The Limit Laws - Limits at Infinity
 	- 2.5 - The Precise Definition of a Finite Limit at a Finite Number
 	- 2.6 - The Precise Definitions of Infinite Limits and Limits at Infinity

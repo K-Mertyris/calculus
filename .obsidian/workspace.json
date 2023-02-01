@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.3 - The Limit Laws - Limits at Finite Numbers.md",
+                "file": "2.3.a - Assignment.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.2 - The Limit of a Function - A Numerical and Graphical Investigation.md",
+                "file": "2.3 - The Limit Laws - Limits at Finite Numbers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Functions and Graphs\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.3 - The Limit Laws - Limits at Finite Numbers.md",
+                "file": "2.3.a - Assignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.3 - The Limit Laws - Limits at Finite Numbers.md",
+                "file": "2.3.a - Assignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.3 - The Limit Laws - Limits at Finite Numbers.md"
+                "file": "2.3.a - Assignment.md"
               }
             }
           }
@@ -163,15 +163,15 @@
   },
   "active": "18c52ed99712e32c",
   "lastOpenFiles": [
-    "2.2 - The Limit of a Function - A Numerical and Graphical Investigation.md",
     "2.3 - The Limit Laws - Limits at Finite Numbers.md",
-    "Calculus I.md",
+    "2.2 - The Limit of a Function - A Numerical and Graphical Investigation.md",
+    "2.3.a - Assignment.md",
     "2.2.a - Assignment.md",
+    "Calculus I.md",
+    "files/fig-1-7-6.png.png",
+    "files/fig-2-3-7.png.png",
     "2.1.a - Assignment.md",
     "2.1 - Tangent Lines and Velocity.md",
-    "lecture-notes/2023-01-18 - Lecture Notes.md",
-    "lecture-notes/2023-01-23 - Lecture Notes.md",
-    "1.3 - Basic Classes of Functions and Their Graphs.md",
-    "1.2 - Functions.md"
+    "lecture-notes/2023-01-18 - Lecture Notes.md"
   ]
 }

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5cf92e4a4e7d515f",
+            "id": "4938bb2a97a0d229",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.4 - The Limit Laws - Limits at Infinity.md",
+                "file": "working/2.4 - Assignment Scratch Paper.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.3 - The Limit Laws - Limits at Finite Numbers.md",
+                "file": "2.4 - The Limit Laws - Limits at Infinity.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.4 - The Limit Laws - Limits at Infinity.md",
+                "file": "working/2.4 - Assignment Scratch Paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.4 - The Limit Laws - Limits at Infinity.md",
+                "file": "working/2.4 - Assignment Scratch Paper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.4 - The Limit Laws - Limits at Infinity.md"
+                "file": "working/2.4 - Assignment Scratch Paper.md"
               }
             }
           }
@@ -161,17 +161,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "5cf92e4a4e7d515f",
+  "active": "4938bb2a97a0d229",
   "lastOpenFiles": [
-    "2.3 - The Limit Laws - Limits at Finite Numbers.md",
     "2.4 - The Limit Laws - Limits at Infinity.md",
+    "working/2.4 - Assignment Scratch Paper.md",
+    "2.4.a - Assignment.md",
     "working/2.3 - Assignment Scratch Paper.md",
+    "2.3.a - Assignment.md",
+    "2.3 - The Limit Laws - Limits at Finite Numbers.md",
     "Calculus I.md",
     "1.6 - Trigonometry.md",
-    "2.3.a - Assignment.md",
     "1.2 - Functions.md",
-    "working/2.1 - Assignment Scratch Paper.md",
-    "2.2 - The Limit of a Function - A Numerical and Graphical Investigation.md",
-    "2.2.a - Assignment.md"
+    "working/2.1 - Assignment Scratch Paper.md"
   ]
 }

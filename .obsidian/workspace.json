@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "working/2.4 - Assignment Scratch Paper.md",
+                "file": "2.5 - The Precise Definition of a Finite Limit at a Finite Number.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "working/2.4 - Assignment Scratch Paper.md",
+                "file": "2.5 - The Precise Definition of a Finite Limit at a Finite Number.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "working/2.4 - Assignment Scratch Paper.md",
+                "file": "2.5 - The Precise Definition of a Finite Limit at a Finite Number.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "working/2.4 - Assignment Scratch Paper.md"
+                "file": "2.5 - The Precise Definition of a Finite Limit at a Finite Number.md"
               }
             }
           }
@@ -189,15 +189,15 @@
   },
   "active": "4938bb2a97a0d229",
   "lastOpenFiles": [
-    "2.3 - The Limit Laws - Limits at Finite Numbers.md",
-    "working/2.4 - Assignment Scratch Paper.md",
     "2.4 - The Limit Laws - Limits at Infinity.md",
+    "2.5 - The Precise Definition of a Finite Limit at a Finite Number.md",
+    "working/2.4 - Assignment Scratch Paper.md",
+    "Calculus I.md",
+    "2.3 - The Limit Laws - Limits at Finite Numbers.md",
     "working/2.3 - Assignment Scratch Paper.md",
     "2.4.a - Assignment.md",
     "2.3.a - Assignment.md",
-    "Calculus I.md",
     "1.6 - Trigonometry.md",
-    "1.2 - Functions.md",
-    "working/2.1 - Assignment Scratch Paper.md"
+    "1.2 - Functions.md"
   ]
 }

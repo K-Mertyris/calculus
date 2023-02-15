@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.5.a - Assignment.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d97acd752c5bd0b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.5.a - Assignment.md",
+                "file": "2.6 - The Precise Definitions of Infinite Limits and Limits at Infinity.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.5.a - Assignment.md",
+                "file": "2.6 - The Precise Definitions of Infinite Limits and Limits at Infinity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.5.a - Assignment.md",
+                "file": "2.6 - The Precise Definitions of Infinite Limits and Limits at Infinity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.5.a - Assignment.md"
+                "file": "2.6 - The Precise Definitions of Infinite Limits and Limits at Infinity.md"
               }
             }
           }
@@ -162,17 +148,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "d97acd752c5bd0b9",
+  "active": "4938bb2a97a0d229",
   "lastOpenFiles": [
-    "1.1 - Algebraic Manipulations Critical for Calculus.md",
     "2.5 - The Precise Definition of a Finite Limit at a Finite Number.md",
-    "2.5.a - Assignment.md",
-    "working/2.5 - Assignment Scratch Paper.md",
-    "working/2.4 - Assignment Scratch Paper.md",
-    "2.4 - The Limit Laws - Limits at Infinity.md",
-    "2.4.a - Assignment.md",
+    "2.6 - The Precise Definitions of Infinite Limits and Limits at Infinity.md",
     "0.0 - Calculus I.md",
-    "files/fig-2-5-2.png",
-    "2.3 - The Limit Laws - Limits at Finite Numbers.md"
+    "2.5.a - Assignment.md",
+    "Pasted image 20230211173927.png",
+    "Pasted image 20230211170458.png",
+    "working/2.5 - Assignment Scratch Paper.md",
+    "1.1 - Algebraic Manipulations Critical for Calculus.md",
+    "working/2.4 - Assignment Scratch Paper.md",
+    "2.4 - The Limit Laws - Limits at Infinity.md"
   ]
 }

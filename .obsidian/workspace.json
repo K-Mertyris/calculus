@@ -8,38 +8,38 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4938bb2a97a0d229",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.7 - Continuity.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1ed4d75b929a1b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.3 - The Limit Laws - Limits at Finite Numbers.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f32bf00195b797c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "working/2.7 - Assignment Scratch Paper.md",
+                "file": "Daily Study.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3629be17013fcd04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exam 1 Study Notes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5106d75c6f064048",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.5 - The Precise Definition of a Finite Limit at a Finite Number.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "working/2.7 - Assignment Scratch Paper.md",
+                "file": "Exam 1 Study Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "working/2.7 - Assignment Scratch Paper.md",
+                "file": "Exam 1 Study Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "working/2.7 - Assignment Scratch Paper.md"
+                "file": "Exam 1 Study Notes.md"
               }
             }
           }
@@ -175,17 +175,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "f32bf00195b797c3",
+  "active": "3629be17013fcd04",
   "lastOpenFiles": [
-    "working/2.5 - Assignment Scratch Paper.md",
-    "working/2.7 - Assignment Scratch Paper.md",
-    "2.3 - The Limit Laws - Limits at Finite Numbers.md",
-    "2.7 - Continuity.md",
     "2.5 - The Precise Definition of a Finite Limit at a Finite Number.md",
-    "2.6 - The Precise Definitions of Infinite Limits and Limits at Infinity.md",
-    "2.7.a - Assignment.md",
-    "2.6.a - Assignment.md",
-    "0.0 - Calculus I.md",
-    "Pasted image 20230216214509.png"
+    "2.4 - The Limit Laws - Limits at Infinity.md",
+    "2.3 - The Limit Laws - Limits at Finite Numbers.md",
+    "2.2.a - Assignment.md",
+    "2.2 - The Limit of a Function - A Numerical and Graphical Investigation.md",
+    "working/2.7 - Assignment Scratch Paper.md",
+    "Exam 1 Study Notes.md",
+    "Daily Study.md",
+    "1.1 - Algebraic Manipulations Critical for Calculus.md",
+    "1.1.a - Assignment.md"
   ]
 }

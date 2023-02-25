@@ -17,7 +17,7 @@ For any GitHub-based documents (like this `README`), I'll be using VS Codium as
 my editor and using GitHub Desktop to manage the commits, pull requests, and
 other version-control features of GitHub.
 
-[Calculus Notes main doc](0.0%20-%20Calculus%20I.md)
+[Calculus Notes main doc](/Calculus/0.0%20-%20Calculus%20I.md)
 
 ## Links
 

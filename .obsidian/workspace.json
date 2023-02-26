@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "working/2.8 - Assignment Scratch Paper.md",
+                "file": "Calculus/2.9 - The Derivative as a Function.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "working/2.8 - Assignment Scratch Paper.md",
+                "file": "Calculus/2.9 - The Derivative as a Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "working/2.8 - Assignment Scratch Paper.md",
+                "file": "Calculus/2.9 - The Derivative as a Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "working/2.8 - Assignment Scratch Paper.md"
+                "file": "Calculus/2.9 - The Derivative as a Function.md"
               }
             }
           }
@@ -198,12 +198,12 @@
   },
   "active": "96b8171bf12d8d45",
   "lastOpenFiles": [
+    "Calculus/0.0 - Calculus I.md",
     "Algebra/Radical Expressions.md",
+    "working/2.8 - Assignment Scratch Paper.md",
     "README.md",
     "Calculus/Combining Functions.md",
     "Calculus/Formal Definition of Functions.md",
-    "Calculus/0.0 - Calculus I.md",
-    "working/2.8 - Assignment Scratch Paper.md",
     "Calculus/2.8 - Defining the Derivative.md",
     "Calculus/2.8.a - Assignment.md",
     "Syllabus.md",

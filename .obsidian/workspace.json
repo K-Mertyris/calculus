@@ -8,51 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3629be17013fcd04",
+            "id": "4459b2ccaf82889f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus/2.8 - Defining the Derivative.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da01471649229a0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calculus/Combining Functions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0024f7df222b7317",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96b8171bf12d8d45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calculus/2.9 - The Derivative as a Function.md",
+                "file": "lecture-notes/2023-02-15 - Lecture Notes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,12 +24,16 @@
             "id": "8a15664bdc5139ee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Calculus/1.1 - Algebraic Manipulations Critical for Calculus.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus/2.9 - The Derivative as a Function.md",
+                "file": "lecture-notes/2023-02-15 - Lecture Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus/2.9 - The Derivative as a Function.md",
+                "file": "lecture-notes/2023-02-15 - Lecture Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus/2.9 - The Derivative as a Function.md"
+                "file": "lecture-notes/2023-02-15 - Lecture Notes.md"
               }
             }
           }
@@ -196,17 +161,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "96b8171bf12d8d45",
+  "active": "4459b2ccaf82889f",
   "lastOpenFiles": [
+    "Calculus/1.1 - Algebraic Manipulations Critical for Calculus.md",
+    "lecture-notes/2023-02-15 - Lecture Notes.md",
+    "Calculus/2.9 - The Derivative as a Function.md",
     "Calculus/0.0 - Calculus I.md",
     "Algebra/Radical Expressions.md",
     "working/2.8 - Assignment Scratch Paper.md",
     "README.md",
     "Calculus/Combining Functions.md",
     "Calculus/Formal Definition of Functions.md",
-    "Calculus/2.8 - Defining the Derivative.md",
-    "Calculus/2.8.a - Assignment.md",
-    "Syllabus.md",
-    "working/2.7 - Assignment Scratch Paper.md"
+    "Calculus/2.8 - Defining the Derivative.md"
   ]
 }

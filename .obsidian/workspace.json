@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecture-notes/2023-02-15 - Lecture Notes.md",
+                "file": "Calculus/2.9 - The Derivative as a Function.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,19 +21,20 @@
             }
           },
           {
-            "id": "8a15664bdc5139ee",
+            "id": "b38395a30fbabc60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus/1.1 - Algebraic Manipulations Critical for Calculus.md",
+                "file": "working/2.9 - Assignment Scratch Paper.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lecture-notes/2023-02-15 - Lecture Notes.md",
+                "file": "working/2.9 - Assignment Scratch Paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lecture-notes/2023-02-15 - Lecture Notes.md",
+                "file": "working/2.9 - Assignment Scratch Paper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lecture-notes/2023-02-15 - Lecture Notes.md"
+                "file": "working/2.9 - Assignment Scratch Paper.md"
               }
             }
           }
@@ -161,17 +162,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "4459b2ccaf82889f",
+  "active": "b38395a30fbabc60",
   "lastOpenFiles": [
     "Calculus/1.1 - Algebraic Manipulations Critical for Calculus.md",
-    "lecture-notes/2023-02-15 - Lecture Notes.md",
+    "working/2.9 - Assignment Scratch Paper.md",
+    "Calculus/2.9.a - Assignment.md",
+    "lecture-notes/2023-02-27 - Lecture Notes.md",
     "Calculus/2.9 - The Derivative as a Function.md",
+    "Calculus/2.8.a - Assignment.md",
     "Calculus/0.0 - Calculus I.md",
+    "lecture-notes/2023-02-15 - Lecture Notes.md",
     "Algebra/Radical Expressions.md",
-    "working/2.8 - Assignment Scratch Paper.md",
-    "README.md",
-    "Calculus/Combining Functions.md",
-    "Calculus/Formal Definition of Functions.md",
-    "Calculus/2.8 - Defining the Derivative.md"
+    "working/2.8 - Assignment Scratch Paper.md"
   ]
 }

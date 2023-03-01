@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus/2.9 - The Derivative as a Function.md",
+                "file": "lecture-notes/2023-02-27 - Lecture Notes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -27,6 +27,19 @@
               "type": "markdown",
               "state": {
                 "file": "working/2.9 - Assignment Scratch Paper.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6f39b05e68e2335",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calculus/2.9 - The Derivative as a Function.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -164,15 +177,15 @@
   },
   "active": "b38395a30fbabc60",
   "lastOpenFiles": [
-    "Calculus/1.1 - Algebraic Manipulations Critical for Calculus.md",
-    "working/2.9 - Assignment Scratch Paper.md",
-    "Calculus/2.9.a - Assignment.md",
     "lecture-notes/2023-02-27 - Lecture Notes.md",
+    "working/2.9 - Assignment Scratch Paper.md",
     "Calculus/2.9 - The Derivative as a Function.md",
-    "Calculus/2.8.a - Assignment.md",
-    "Calculus/0.0 - Calculus I.md",
     "lecture-notes/2023-02-15 - Lecture Notes.md",
-    "Algebra/Radical Expressions.md",
-    "working/2.8 - Assignment Scratch Paper.md"
+    "Calculus/1.1 - Algebraic Manipulations Critical for Calculus.md",
+    "Calculus/1.2 - Functions.md",
+    "Calculus/Formal Definition of Functions.md",
+    "Calculus/2.9.a - Assignment.md",
+    "Calculus/2.8.a - Assignment.md",
+    "Calculus/0.0 - Calculus I.md"
   ]
 }

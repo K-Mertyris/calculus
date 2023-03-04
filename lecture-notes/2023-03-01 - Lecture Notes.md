@@ -29,7 +29,7 @@ Find the derivative of $f(x)=x^2x^3$
 We'll prove this one when we get to rational exponents, and we can use it for rational exponents.
 
 Example: Find the derivative of each function:
-- !EXAM - $g(x)=\dfrac{18x^3\sqrt[6]{x^5}-10x^2\sqrt[6]{x^5}-3(10x)^2x^{-1/6}+45x^{4/3}}{5(3x^{2/3})^2}$
+- #exam - $g(x)=\dfrac{18x^3\sqrt[6]{x^5}-10x^2\sqrt[6]{x^5}-3(10x)^2x^{-1/6}+45x^{4/3}}{5(3x^{2/3})^2}$
 	- $g(x)=\dfrac{18x^3\cdot x^{5/6}-10x^2\cdot x^{5/6}-300x^2\cdot x^{-1/6}+45x^{4/3}}{5\cdot 9x^{4/3}}$
 	- $=\dfrac{18x^{23/6}-10x^{17/6}-300x^{11/12}+45x^{4/3}}{45x^{4/3}}$
 	- $=\dfrac{2}{5}x^{15}{6}-\dfrac{2}{9}$ -- Finish writing this out
@@ -42,12 +42,12 @@ Example:
 	- $h'(x)=\dfrac{1}{\pi}x^{1/\pi - 1}$
 - $k(x)=\pi^e$
 	- Since the base is a **constant** and not a variable, this means that the derivative is 0 because the derivative of a constant is 0
-	- !TEST
+	- #exam
 
 The Power Rule only applies to algebraic functions of the form $y=x^n$.
 
 Let $g(x)=\dfrac{18x^3\sqrt[6]{x^5}-10x^2\sqrt[6]{x^5}-3(10x)^2x^{-1/6}+45x^{4/3}}{5(3x^{2/3})^2}$
-!TEST 
+#exam 
 Find a point or points $a$ such that $f'(a)=0$
 - From the previous example: $f'(x)=x^{3/2}-\frac{1}{3}x^{1/2}-\frac{10}{3}x^{-1/2}$
 	- $=3x^{3/2}-x^{1/2}-10x^{-1/2}$
@@ -55,7 +55,7 @@ Find a point or points $a$ such that $f'(a)=0$
 	- $=x^{-1/2}(3x+5)(x-2)$
 
 Example:
-!TEST
+#exam
 - Find a second-degree polynomial P such that P(2)=5, P'(2)=3, P''(2)=2
 	- Let $P(x)=ax^2+bx+c$
 		- $P(2)=5=ax^2+bx+c \implies c=3$
@@ -79,7 +79,7 @@ Example:
 
 ![[lec-3-1-3.png]]
 
-!TEST
+#exam
 Find equations of both lines that are tangent to the curve $y=x^3-3x^2+3x-3$ and are parallel to the line $3x-y=15$
 - Tangent lines mean that the slope of the tangent line must = 3, or $f'(x)=3$
 - $y'=3x^2-6x+3$ -- When does this equal 3?

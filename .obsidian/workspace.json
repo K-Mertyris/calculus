@@ -21,19 +21,6 @@
             }
           },
           {
-            "id": "c16edbc097bc49b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "working/2.9 - Assignment Scratch Paper.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "79da49cd6cbf229f",
             "type": "leaf",
             "state": {
@@ -45,35 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e801f725838aa3d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lecture-notes/2023-02-15 - Lecture Notes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac5f0bf4589b937d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "working/2.9 - Assignment Scratch Paper.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,17 +162,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "244b6b17b2de57e5",
+  "active": "79da49cd6cbf229f",
   "lastOpenFiles": [
     "working/2.9 - Assignment Scratch Paper.md",
+    "working/3.1 - Assignment Scratch Paper.md",
+    "lecture-notes/2023-02-15 - Lecture Notes.md",
+    "lecture-notes/2023-03-01 - Lecture Notes.md",
     "Calculus/3.1.a - Assignment.md",
     "Calculus/2.9.a - Assignment.md",
     "Calculus/0.0 - Calculus I.md",
     "Calculus/3.1 - Derivatives of Polynomial Functions.md",
-    "lecture-notes/2023-02-15 - Lecture Notes.md",
     "lecture-notes/2023-02-27 - Lecture Notes.md",
-    "Calculus/2.9 - The Derivative as a Function.md",
-    "files/lec-3-1-2.png",
-    "lecture-notes/2023-03-01 - Lecture Notes.md"
+    "Calculus/2.9 - The Derivative as a Function.md"
   ]
 }

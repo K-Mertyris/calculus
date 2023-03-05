@@ -70,11 +70,11 @@ Example:
 	- 2A+2Ax+B-2(Ax^2+Bx+C)=-2x^2+14x+8
 		- Comparison of coefficients
 		- -2Ax^2+(2A-2B)x+(2A+B-2C)=-2x^2+14x+8
-|Term|LHS|RHS|System
+|Term|LHS|RHS|System|
 |-|-|-|-|
-|x^0|2A+B-2C|8|2A+B-2C=8=-2C=12 \implies
-|x^1|2A-2B|14|
-|x^2|-2A|-2|
+|$x^0$|$2A+B-2C$|8|$2A+B-2C=8=-2C=12 \implies C=-6$
+|$x^1$|$2A-2B$|14|
+|$x^2$|$-2A$|-2|$-2A=-2 \implies A=1$
 ^^ This is a system of equations
 
 ![[lec-3-1-3.png]]

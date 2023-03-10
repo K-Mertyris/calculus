@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus/3.3.a - Assignment.md",
+                "file": "working/3.3 - Assignment Scratch Paper.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "14d8d9bc8e950234",
+            "id": "9b6d862a0d5c542f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "working/3.2 - Assignment Scratch Paper.md",
+                "file": "working/3.3 - Assignment Scratch Paper.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus/3.3.a - Assignment.md",
+                "file": "working/3.3 - Assignment Scratch Paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus/3.3.a - Assignment.md",
+                "file": "working/3.3 - Assignment Scratch Paper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus/3.3.a - Assignment.md"
+                "file": "working/3.3 - Assignment Scratch Paper.md"
               }
             }
           }
@@ -177,10 +177,11 @@
   },
   "active": "8dfa825abc402039",
   "lastOpenFiles": [
+    "Calculus/3.3.a - Assignment.md",
+    "working/3.3 - Assignment Scratch Paper.md",
+    "working/3.2 - Assignment Scratch Paper.md",
     "Calculus/3.3 - Derivatives of Trigonometric Functions.md",
     "lecture-notes/2023-03-01 - Lecture Notes.md",
-    "working/3.2 - Assignment Scratch Paper.md",
-    "Calculus/3.3.a - Assignment.md",
     "Calculus/3.2.a - Assignment.md",
     "Calculus/0.0 - Calculus I.md",
     "Pasted image 20230308225948.png",
